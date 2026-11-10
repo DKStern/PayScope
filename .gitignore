@@ -1,0 +1,14 @@
+node_modules/
+/dist/
+/coverage/
+*.tsbuildinfo
+.eslintcache
+
+.env
+.env.*
+!.env.example
+*.local
+
+*.log
+.DS_Store
+Thumbs.db
